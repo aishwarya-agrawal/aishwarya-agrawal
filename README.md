@@ -1,4 +1,10 @@
-### Hi there 👋
+# About Me
+[![GitHub](https://img.shields.io/badge/GitHub-%40aishwarya-239a3b.svg)](https://github.com/aishwarya-agrawal)
+[![Twitter](https://img.shields.io/badge/Twitter-%40aishwarya-58a1f2.svg)](https://twitter.com/Aishwaryaagrwal)
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/aishwaryaagrawal/)
+
+Hi there, I am [@aishwarya](https://github.com/aishwarya-agrawal)👋. I am a Data Scientist at [@EpisourceLLC](https://github.com/EpisourceLLC). I love building data driven and ML based solutions. I grew up and live in 🇮🇳.
+
 
 <!--
 **aishwarya-agrawal/aishwarya-agrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
